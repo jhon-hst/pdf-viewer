@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/pdf-viewer/static/js/runtime~main.09b49ca1.js"
   },
   {
-    "revision": "4fc459b4dfd9e54f3852c99ebb0ce7d3",
+    "revision": "9d2b44d7b00c8e2caf96d6fd360548bb",
     "url": "/pdf-viewer/index.html"
   }
 ];
