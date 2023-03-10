@@ -1,16 +1,13 @@
 {
-  "files": {
-    "main.css": "/pdf-viewer/static/css/main.073c9b0a.css",
-    "main.js": "/pdf-viewer/static/js/main.ab6ba95f.js",
-    "static/js/787.b5d1dcb4.chunk.js": "/pdf-viewer/static/js/787.b5d1dcb4.chunk.js",
-    "static/media/logo.svg": "/pdf-viewer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/pdf-viewer/index.html",
-    "main.073c9b0a.css.map": "/pdf-viewer/static/css/main.073c9b0a.css.map",
-    "main.ab6ba95f.js.map": "/pdf-viewer/static/js/main.ab6ba95f.js.map",
-    "787.b5d1dcb4.chunk.js.map": "/pdf-viewer/static/js/787.b5d1dcb4.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ab6ba95f.js"
-  ]
+  "main.css": "/pdf-viewer/static/css/main.ff3904b5.chunk.css",
+  "main.js": "/pdf-viewer/static/js/main.a67e4cf0.chunk.js",
+  "main.js.map": "/pdf-viewer/static/js/main.a67e4cf0.chunk.js.map",
+  "static/js/1.33129f50.chunk.js": "/pdf-viewer/static/js/1.33129f50.chunk.js",
+  "static/js/1.33129f50.chunk.js.map": "/pdf-viewer/static/js/1.33129f50.chunk.js.map",
+  "runtime~main.js": "/pdf-viewer/static/js/runtime~main.09b49ca1.js",
+  "runtime~main.js.map": "/pdf-viewer/static/js/runtime~main.09b49ca1.js.map",
+  "static/css/main.ff3904b5.chunk.css.map": "/pdf-viewer/static/css/main.ff3904b5.chunk.css.map",
+  "index.html": "/pdf-viewer/index.html",
+  "precache-manifest.384e911f570e2167241224917369d095.js": "/pdf-viewer/precache-manifest.384e911f570e2167241224917369d095.js",
+  "service-worker.js": "/pdf-viewer/service-worker.js"
 }
